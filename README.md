@@ -17,9 +17,7 @@ The ***-u*** flag  is mandatory and allows you to specify the github repo url.
 
 # Installation
 
-```shell
-virtualenv venv
-. ./venv/bin/activate
+```
 pip install -u -r requirements.txt
 ```
 
