@@ -2,6 +2,12 @@
 
 I've encountered multiple occasions during chained CTF where Hint/Flag hidden in the Github commit messages and the commit page comments with no whatsover content in the repo.This tool has been really useful when there were around 2000 or even more commits across diffrent branches and needs to be dig down to find important lead/Flag in the CTF's.
 
+
+To Give you an idea how this can easy your life , try finding the following flag ***FLAG{COMMIT-HUNTER}*** in this repository https://github.com/alwaysadapa/jest which is hidden in commits manually and then with this tool.
+
+
+
+
 ![example scan](https://www.secureboy.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-05-at-7.56.08-PM-1024x115.png)
 
 
