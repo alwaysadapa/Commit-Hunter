@@ -36,4 +36,6 @@ usage: commit-hunter.py [-h] [-v] [-u URL]
 
 
 ```
-On the successful completion , we will get following files ***output_comments.csv*** and ***output_messages.csv*** which will have commit page comments and commit messages tagged against it's commitid respectively
+On the successful completion , we will get following files ***output_comments.csv*** and ***output_messages.csv*** which will have commit page comments and commit messages tagged against it's commitid respectively.
+
+Approach used is blogged here : https://www.secureboy.com/2020/01/commit-hunter-visualizing-hidden-content-in-commits-for-given-github-repo/ . Feel free to raise the issue and feature requests if you have any.
