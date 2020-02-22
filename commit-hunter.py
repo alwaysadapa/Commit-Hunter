@@ -18,7 +18,7 @@ commit_comments_list=[]
 
 def version_info():
 	VER = 'Commit Hunter v1.0 - \033[033mFind Commit messages and Commit Page Comments for Github repo \033[0m'
-	AUTH = 'Author: \033[033mVijay Adapa - https://securityboy.com/\033[0m'
+	AUTH = 'Author: \033[033mVijay Adapa - https://secureboy.com/\033[0m'
 	print(VER)
 	print(AUTH)
 	print('\033[1;30m================================================\033[0m')
